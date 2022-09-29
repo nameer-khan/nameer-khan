@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nameer-khan
 - 👀 I’m interested in Data Preprocessing and Engineering.
-- 🌱 I’m currently working for a mid scale Surveillance Product Based Company as an SDE-1
-- 💞️ I’m looking to collaborate on Data Engineering projects
+- 🌱 I’m currently working for Park+, one of the leading Product Based Start-ups in India, featured in Top 25 Startups in India by LinkedIn as an SDE
+- 💞️ I’m looking to collaborate on Data Engineering and Software Development projects
 - 📫 How to reach me : Email : nameer3865@gmail.com
                      LinkedIn: https://www.linkedin.com/in/nameer-khan-7a6857175/
 
