@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @nameer-khan
-- 👀 I’m interested in Data Preprocessing and Engineering.
-- 🌱 I’m currently working for Park+, one of the leading Product Based Start-ups in India, featured in Top 25 Startups in India by LinkedIn as an SDE
+- 👀 I’m interested in Creating Products.
+- 🌱 I’m currently working for Balckopal Technologies+, India's first PropFintech startup, as a Senior Software Engineer/ Tech Lead.
 - 💞️ I’m looking to collaborate on Data Engineering and Software Development projects
 - 📫 How to reach me : Email : nameer3865@gmail.com
-                     LinkedIn: https://www.linkedin.com/in/nameer-khan-7a6857175/
+                     LinkedIn: https://www.linkedin.com/in/nameer-khan1
 
 <!---
 nameer-khan/nameer-khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
